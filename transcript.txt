@@ -1,0 +1,4 @@
+BA: Thanks for meeting. Tell me about the online ordering issue.
+Client: Yeah, right now when a customer orders sourdough bread on our site, the order goes to a messy email inbox. It's terrible. We lose orders. 
+BA: Got it. What do you need instead?
+Client: We need a clean dashboard for our kitchen staff. As a baker, I want to see a list of daily orders sorted by pick-up time so I don't bake the wrong amount. And customers should get an automated email confirmation with a tracking number so they stop calling us to check if it's ready.
